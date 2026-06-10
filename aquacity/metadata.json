@@ -1,0 +1,6 @@
+{
+  "name": "AquaCity",
+  "description": "Plataforma Inteligente para Gestão de Desperdício Hídrico Urbano - Combatendo vazamentos e preservando recursos com engajamento comunitário.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
